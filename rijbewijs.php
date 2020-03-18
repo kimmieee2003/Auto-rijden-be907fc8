@@ -6,4 +6,4 @@ if ($getal1 < "16,5") {
 }else{
     echo "Je mag beginnen met rijlessen!";
 }
-    ?>
+?>
